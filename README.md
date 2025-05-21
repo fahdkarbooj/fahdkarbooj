@@ -18,7 +18,7 @@
 
 📫 **How to reach me:**
 - 💌 Email: `fahdkarbooj30@gmail.com`
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
+- 💼 LinkedIn: www.linkedin.com/in/fahd-karbooj
 
 
 ---
