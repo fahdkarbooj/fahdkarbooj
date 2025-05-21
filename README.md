@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Fahd
 
+I'm a software engineer from Syria 🇸🇾.
+
+💡 I build websites and mobile apps using:
+- ASP.NET & C#
+- Flutter
+- SQL Server
+
+📫 How to reach me:
+- Email: fahd@example.com
 <!--
 **fahdkarbooj/fahdkarbooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
