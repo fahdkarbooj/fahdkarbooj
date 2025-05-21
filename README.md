@@ -8,7 +8,7 @@ I'm a software engineer from Syria 🇸🇾.
 - SQL Server
 
 📫 How to reach me:
-- Email: fahd@example.com
+- Email: fahdkarbooj30@gmail.com
 <!--
 **fahdkarbooj/fahdkarbooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
