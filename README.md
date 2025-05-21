@@ -1,25 +1,33 @@
-# Hi there 👋 I'm Fahd
+<h1 align="center">Hi there 👋, I'm Fahd Karbooj</h1>
+<h3 align="center">🇸🇾 Software Engineer from Syria</h3>
 
-I'm a software engineer from Syria 🇸🇾.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
-💡 I build websites and mobile apps using:
-- ASP.NET & C#
-- Flutter
-- SQL Server
+---
 
-📫 How to reach me:
-- Email: fahdkarbooj30@gmail.com
-<!--
-**fahdkarbooj/fahdkarbooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 I'm a software engineering graduate, passionate about developing web and mobile applications.
 
-Here are some ideas to get you started:
+💻 **Programming Languages & Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 **I develop:**
+- Cross-platform apps using **Flutter**
+- Backend APIs with **ASP.NET & C#**
+- Databases with **SQL Server**
+
+📫 **How to reach me:**
+- Email: `your-email@example.com`
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com)
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+⭐ Always ready to learn and collaborate on interesting projects.
