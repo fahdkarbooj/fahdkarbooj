@@ -1,33 +1,28 @@
 <h1 align="center">Hi there 👋, I'm Fahd Karbooj</h1>
-<h3 align="center">🇸🇾 Software Engineer from Syria</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
+<h3 align="center">Software Engineer from Syria 🇸🇾</h3>
 
 ---
 
-🧑‍💻 I'm a software engineering graduate, passionate about developing web and mobile applications.
+🌟 I'm a passionate software engineer with a focus on web and mobile development.
 
-💻 **Programming Languages & Tools:**
-<p align="left">
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-</p>
+🛠️ **Technologies I work with:**
+- 🔧 ASP.NET & C#
+- 📱 Flutter (Android & iOS)
+- 🗄️ SQL Server (Database Design & Management)
 
-📱 **I develop:**
-- Cross-platform apps using **Flutter**
-- Backend APIs with **ASP.NET & C#**
-- Databases with **SQL Server**
+🌐 **What I do:**
+- Build modern websites using .NET technologies
+- Develop cross-platform mobile applications
+- Design and manage relational databases
+- Continuously learning and exploring new tools
 
 📫 **How to reach me:**
-- Email: `fahdkarbooj30@gmail.com`
-!*- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com)*!
+- 💌 Email: `fahdkarbooj30@gmail.com`
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
 
 
 ---
 
-⭐ Always ready to learn and collaborate on interesting projects.
+🧠 Always eager to learn and take on new challenges.
+Let’s connect and create something amazing together!
+
