@@ -24,9 +24,9 @@
 - Databases with **SQL Server**
 
 📫 **How to reach me:**
-- Email: `your-email@example.com`
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Email: `fahdkarbooj30@gmail.com`
+!*- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com)*!
+
 
 ---
 
